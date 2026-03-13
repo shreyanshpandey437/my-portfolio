@@ -14,7 +14,8 @@ $skillsData = [
         'icon'     => '🎨',
         'color'    => '#4f8ef7',
         'skills'   => [
-            ['name' => 'HTML5',     'icon' => '🌐', 'desc' => 'Structure & Semantics',      'level' => 'Intermediate'],
+            ['name' => 'JavaScript',     'icon' => '｡🇯‌🇸‌', 'desc' => 'Designing and Animations',      'level' => 'Advance'],
+            ['name' => 'HTML5',     'icon' => '🌐', 'desc' => 'Structure & Semantics',      'level' => 'Advance'],
             ['name' => 'CSS3',      'icon' => '🎨', 'desc' => 'Styling & Responsive Design', 'level' => 'Intermediate'],
         ],
     ],
@@ -24,8 +25,8 @@ $skillsData = [
         'color'    => '#8b5cf6',
         'skills'   => [
             ['name' => 'C Programming', 'icon' => '⚙️', 'desc' => 'Procedural Programming & Basics', 'level' => 'Intermediate'],
-            ['name' => 'Java',           'icon' => '☕', 'desc' => 'Object-Oriented Programming',    'level' => 'Learning'],
-            ['name' => 'PHP',            'icon' => '🐘', 'desc' => 'Server-Side Web Development',    'level' => 'Learning'],
+            ['name' => 'Java',           'icon' => '☕', 'desc' => 'Object-Oriented Programming',    'level' => 'Intermediate'],
+            ['name' => 'PHP',            'icon' => '🐘', 'desc' => 'Server-Side Web Development',    'level' => 'Intermediate'],
         ],
     ],
     [
